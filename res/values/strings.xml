@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Urvai ir Drakonai</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	
+    <string-array name="inventoryDropdown_array">
+        <item>Maistas</item>
+        <item>Šarvai ir Ginklai</item>
+        <item>Medžiagos</item>
+        <item>Knygos</item>
+        <item>Eleksyrai</item>
+    </string-array>
+</resources>
